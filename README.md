@@ -1,1 +1,0 @@
-# LDGITCLUB.github.io
