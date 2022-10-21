@@ -15,7 +15,7 @@
 ### 3.网站
 ---
 ### 官方网站:ldgitclub.github.io
-### #Powered by Gzt
+#### Powered by Gzt
 ### 打开[官网](ldgschool.github.io)
 
 ### 4.联系我们
